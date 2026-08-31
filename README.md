@@ -61,6 +61,6 @@ python gym-management-system.py
 
 ## Author
 
-**Siddhi Deshmukh**
+Siddhi Deshmukh
 
 
